@@ -1,6 +1,6 @@
 # UruguargentinaOS
 
-WARNING: This script contains dark humor, vulgar languague, jokes that may be offensive to some and violence. Take everthing in this script or related to it merely as a joke and basically nonsensical.
+WARNING: This script contains dark humor, vulgar languague, jokes that may be offensive to some and violence. Take everthing in this script or related to it merely as a joke and basically nonsensical. TAKE NOTHING SERIOUSLY
 
 
 ## Whats this?
@@ -14,6 +14,10 @@ This is a python script that tries to emulate the experience of a MSDOS terminal
 -More than 200 kb of storage
 -Potato CPU at least
 -Sense of humor
+
+## How do i run ts?
+
+Once you have python installed just open the "main.py" and it should run on a terminal.
 
 ## Can I mod ts?
 
